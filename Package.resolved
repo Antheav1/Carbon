@@ -3,10 +3,10 @@
     "pins": [
       {
         "package": "DifferenceKit",
-        "repositoryURL": "https://github.com/ra1028/DifferenceKit.git",
+        "repositoryURL": "https://github.com/Antheav1/DifferenceKit.git",
         "state": {
-          "branch": null,
-          "revision": "4eb31f8e85e4cb13732f9664d6e01e507cd592a0",
+          "branch": "spm",
+          "revision": "a8da9d5b39e7e4518a7f6358548387f3864eafad",
           "version": "1.1.3"
         }
       }
